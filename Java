@@ -1,0 +1,6 @@
+public class main{
+   Public class void main (strgs[] args)
+    {
+      System.out.prinln("Hello world");
+   }
+}
